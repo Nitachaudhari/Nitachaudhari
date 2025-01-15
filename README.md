@@ -1,6 +1,6 @@
 # Hello👋, I am Nita Pankaj Chaudhari  
 
-A Skilled Full-stack Web Developer with expertise in both front-end and back-end development. Proficient in **HTML, CSS, JavaScript, React.js, Node.js, Express.js**, and **MongoDB**. I completed a comprehensive 1000+ hour full-stack web development program at **Masai School**, gaining hands-on experience through individual and collaborative projects. I am seeking an opportunity to apply my skills and grow in the field of web development.  
+A Skilled Full-stack Web Developer with expertise in both front-end and back-end development. Proficient in **HTML, CSS, JavaScript, React.js** and **MongoDB**. I completed a comprehensive 1000+ hour full-stack web development program at **Masai School**, gaining hands-on experience through individual and collaborative projects. I am seeking an opportunity to apply my skills and grow in the field of web development.  
 
 🌱 **I’m an Aspiring Full-stack Developer and Innovator**  
 👨‍💻 **All of my projects are available at [Portfolio](#)**  
@@ -8,7 +8,7 @@ A Skilled Full-stack Web Developer with expertise in both front-end and back-end
 
 📫 **How to reach me**:  
 - Email: [nitachaudhari@example.com](mailto:nitachaudhari@example.com)  
-- LinkedIn: [https://www.linkedin.com/in/nita-chaudhari-a94038128/](#)  
+- LinkedIn: [Nita Chaudhari](https://www.linkedin.com/in/nita-chaudhari-a94038128/)
 
 ## Skills  
 
@@ -26,7 +26,7 @@ A Skilled Full-stack Web Developer with expertise in both front-end and back-end
 
 ## Connect with Me:  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitachaudhari@example.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)&nbsp;  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nita-chaudhari-a94038128/)&nbsp;  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NitaChaudhari)&nbsp;  
 
 ---
