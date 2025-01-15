@@ -26,8 +26,9 @@ A Skilled Full-stack Web Developer with expertise in both front-end and back-end
 
 ## Connect with Me:  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitachaudhari@example.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nita-chaudhari-a94038128/)&nbsp;  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NitaChaudhari)&nbsp;  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nita-chaudhari-a94038128/)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NitaChaudhari)&nbsp;
+
 
 ---
 
@@ -35,11 +36,3 @@ A Skilled Full-stack Web Developer with expertise in both front-end and back-end
 ![Nita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NitaChaudhari&show_icons=true&theme=radical)  
 
 ---
-
-## Pinned Projects  
-
-### [Task Management Application](#)  
-- **Description**: A task management app with CRUD operations.  
-
-### [Movie Management Application](#)  
-- **Description**: An app to manage and explore a collection of movies.  
