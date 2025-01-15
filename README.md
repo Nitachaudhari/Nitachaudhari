@@ -8,9 +8,6 @@ A Skilled Full-stack Web Developer with expertise in both front-end and back-end
 
 📫 **How to reach me**:[nitachaudhari@example.com](mailto:nitachaudhari@example.com) **|** [Nita Chaudhari](https://www.linkedin.com/in/nita-chaudhari-a94038128/)
 
-![My Animated GIF](Web Development.mp4)
-
-
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -27,7 +24,6 @@ A Skilled Full-stack Web Developer with expertise in both front-end and back-end
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitachaudhari@example.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nita-chaudhari-a94038128/)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NitaChaudhari)&nbsp;
-
 
 ---
 
