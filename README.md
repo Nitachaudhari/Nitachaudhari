@@ -9,6 +9,9 @@ A Skilled Full-stack Web Developer with expertise in both front-end and back-end
 📫 **How to reach me**:[nitachaudhari@example.com](mailto:nitachaudhari@example.com) **|** [Nita Chaudhari](https://www.linkedin.com/in/nita-chaudhari-a94038128/)
 
 ---
+![Web Development GIF](https://media.giphy.com/media/l0K4n9e0zqD0lYo7u/giphy.gif)
+
+---
 
 **Skills**
 
