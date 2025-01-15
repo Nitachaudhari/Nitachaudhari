@@ -37,10 +37,7 @@ A Skilled Full-stack Web Developer with expertise in both front-end and back-end
 ---
 
 ## My GitHub Stats
-
-![GitHub followers](https://img.shields.io/github/followers/NitaChaudhari?style=social)
-![GitHub stars](https://img.shields.io/github/stars/NitaChaudhari?style=social)
-![GitHub forks](https://img.shields.io/github/forks/NitaChaudhari?style=social)
+![Nita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NitaChaudhari&show_icons=true&count_private=true&theme=dark&hide=prs)
 
 
 ---
