@@ -1,4 +1,4 @@
-# Hello👋, I am Nita Pankaj Chaudhari  
+# Hello, I am Nita Pankaj Chaudhari  
 
 A Skilled Full-stack Web Developer with expertise in both front-end and back-end development. Proficient in **HTML, CSS, JavaScript, React.js** and **MongoDB**. I completed a comprehensive 1000+ hour full-stack web development program at **Masai School**, gaining hands-on experience through individual and collaborative projects. I am seeking an opportunity to apply my skills and grow in the field of web development.  
 
