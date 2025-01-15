@@ -6,9 +6,7 @@ A Skilled Full-stack Web Developer with expertise in both front-end and back-end
 👨‍💻 **All of my projects are available at [Portfolio](#)**  
 💬 **Ask me about**: HTML | CSS | JavaScript | React.js | MongoDB | Firebase  
 
-📫 **How to reach me**:  
-- Email: [nitachaudhari@example.com](mailto:nitachaudhari@example.com)  
-- LinkedIn: [Nita Chaudhari](https://www.linkedin.com/in/nita-chaudhari-a94038128/)
+📫 **How to reach me**:[nitachaudhari@example.com](mailto:nitachaudhari@example.com) **|** [Nita Chaudhari](https://www.linkedin.com/in/nita-chaudhari-a94038128/)
 
 ## Skills  
 
