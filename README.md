@@ -10,6 +10,7 @@ A Skilled Full-stack Web Developer with expertise in both front-end and back-end
 
 ---
 ![Web Development GIF](anim.gif)
+<img src="anim.gif" width="100%" />
 
 ---
 
