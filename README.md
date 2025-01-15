@@ -36,8 +36,10 @@ A Skilled Full-stack Web Developer with expertise in both front-end and back-end
 
 ---
 
-## My GitHub Stats
-![Nita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NitaChaudhari&show_icons=true&count_private=true&theme=dark&hide=prs)
+## My GitHub Stats  
+![Nita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NitaChaudhari&show_icons=true&theme=radical)
 
+## My Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NitaChaudhari&layout=compact&theme=radical)
 
 ---
