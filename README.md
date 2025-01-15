@@ -8,7 +8,7 @@ A Skilled Full-stack Web Developer with expertise in both front-end and back-end
 
 📫 **How to reach me**:  
 - Email: [nitachaudhari@example.com](mailto:nitachaudhari@example.com)  
-- LinkedIn: [LinkedIn Profile](#)  
+- LinkedIn: [https://www.linkedin.com/in/nita-chaudhari-a94038128/](#)  
 
 ## Skills  
 
@@ -22,14 +22,12 @@ A Skilled Full-stack Web Developer with expertise in both front-end and back-end
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
-
 ---
 
 ## Connect with Me:  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitachaudhari@example.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NitaChaudhari)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitachaudhari@example.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)&nbsp;  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NitaChaudhari)&nbsp;  
 
 ---
 
