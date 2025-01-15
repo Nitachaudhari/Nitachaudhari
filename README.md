@@ -10,27 +10,25 @@ A Skilled Full-stack Web Developer with expertise in both front-end and back-end
 - Email: [nitachaudhari@example.com](mailto:nitachaudhari@example.com)  
 - LinkedIn: [LinkedIn Profile](#)  
 
----
-
-## Projects  
-
-### 🔗 Task Management Application  
-- A task management app that allows users to create, update, and delete tasks seamlessly.  
-- **URL**: [Firebase Database](https://crudapplication-1e891-default-rtdb.firebaseio.com/tasks/)  
-
-### 🔗 Movie Management Application  
-- A movie database app for managing and exploring a collection of movies.  
-- **URL**: [Firebase Database](https://movieapplication-e313c-default-rtdb.firebaseio.com/)  
-
-### 🔗 [Additional Projects](#)  
-
----
-
 ## Skills  
-- **Languages**: HTML, CSS, JavaScript  
-- **Frameworks & Libraries**: React.js, Node.js, Express.js  
-- **Databases**: MongoDB, Firebase  
-- **Other Tools**: Git, npm, Postman  
+
+### Languages  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+### Frameworks & Libraries  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+
+### Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+
+### Other Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+
 
 ---
 
